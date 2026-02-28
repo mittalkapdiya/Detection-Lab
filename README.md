@@ -6,7 +6,7 @@ This repository documents my personal SOC home lab where I simulate real-world a
 
 - [Objective](OBJECTIVE.md)
 - [Lab Setup](LAB-SETUP.md)
-- [Attack Simulation](ATTACK-SIMULATION.md)
+- [Attack Simulation](ATTACK-SIMULATION.md) 
 - [Detection Logic](DETECTION-LOGIC.md)
 - [Investigation Process](INVESTIGATION.md)
 - [Lessons Learned](LESSONS-LEARNED.md)
